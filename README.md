@@ -1,7 +1,7 @@
 # RECONNECT
 # Reconnect.ai
 
-Welcome to Reconnect.ai! This project utilizes GenAI's Gemini model to generate comprehensive roadmaps for various career paths, helping individuals plan their learning journey and providing them with relevant learning resources.
+Welcome to Reconnect.ai ! This project utilizes GenAI's Gemini model to generate comprehensive roadmaps for various career paths, helping individuals plan their learning journey and providing them with relevant learning resources.
 
 ## Overview
 
