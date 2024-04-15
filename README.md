@@ -1,11 +1,11 @@
 # RECONNECT
-# Gemini Roadmap Generator
+# Reconnect.ai
 
-Welcome to Gemini Roadmap Generator! This project utilizes GenAI's Gemini model to generate comprehensive roadmaps for various career paths, helping individuals plan their learning journey and providing them with relevant learning resources.
+Welcome to Reconnect.ai! This project utilizes GenAI's Gemini model to generate comprehensive roadmaps for various career paths, helping individuals plan their learning journey and providing them with relevant learning resources.
 
 ## Overview
 
-Gemini Roadmap Generator is a career guidance tool designed to assist individuals in navigating their professional development journey. By simply entering their desired job title, users can receive a detailed roadmap outlining the steps they need to take to pursue their chosen career path, along with curated learning resources to help them along the way.
+Reconnect.ai is a career guidance tool designed to assist individuals in navigating their professional development journey. By simply entering their desired job title, users can receive a detailed roadmap outlining the steps they need to take to pursue their chosen career path, along with curated learning resources to help them along the way.
 
 ## Features
 
